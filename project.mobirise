@@ -1708,7 +1708,7 @@
                 },
                 "a": {
                   "margin": "0",
-                  "opacity": ".5",
+                  "opacity": "1",
                   "-webkit-transition": ".2s linear",
                   "transition": ".2s linear",
                   "&:hover": {
