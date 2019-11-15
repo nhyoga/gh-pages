@@ -44,7 +44,7 @@
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "siteUrl": "https://www.nicolaharman.com",
+    "siteUrl": "https://www.nicolaharmanyoga.co.uk",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/lotus-flower.svg",
     "noImageResize": "",
